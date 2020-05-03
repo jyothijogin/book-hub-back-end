@@ -1,4 +1,4 @@
-# book-hub-bak-end
+# book-hub-back-end
 This is the back end application project of book-hub-front-end-ui. It is developed using Java, Relational database, JPA and 
 Spring framework. It has 3 tables in database named:
 - Books
