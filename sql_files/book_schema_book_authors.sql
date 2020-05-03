@@ -1,0 +1,1 @@
+insert into book_authors(book_id, author_id) VALUES (8,1);
